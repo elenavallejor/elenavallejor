@@ -1,5 +1,5 @@
 ## Hi! I'm Elena Vallejo Ruiz
-##  Computer Science Engineer specialized in Software Engineering
+#  Computer Engineer specialized in Software Engineering
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elenavallejor&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavallejor&layout=compact&theme=radical)
